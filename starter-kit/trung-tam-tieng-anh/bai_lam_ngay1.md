@@ -104,4 +104,4 @@ Mode                 LastWriteTime         Length Name
 ## Tự chấm (điền sau khi có đáp án)
 
 - **Điểm tự chấm:** 85/100
-- **Lỗi mình đã mắc và cách sửa:Lỗi dùng kebab-case nhưng không sửa lại thành chữ in thường**
+- **Lỗi mình đã mắc và cách sửa:Lỗi dùng kebab-case nhưng không sửa lại thành chữ in thường, dù trong powershell không bị sao nhưng trong linux lại gây lỗi**
